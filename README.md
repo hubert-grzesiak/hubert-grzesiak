@@ -25,7 +25,7 @@
 
 ## 🌟 Most Used Weapons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hubertgrzesiak&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ## Connect with me:
 
