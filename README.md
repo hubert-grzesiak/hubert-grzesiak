@@ -1,64 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">My name is Hubert Grzesiak and I'm a Software Engineer specializing in Frontend Development, from Poland.</p>
+[![Hubert Grzesiak](https://media.licdn.com/dms/image/v2/D4D16AQFunn8eMPL0NQ/profile-displaybackgroundimage-shrink_350_1400/B4DZcIF1BWG8AY-/0/1748187437007?e=1753920000&v=beta&t=BhggvFoJBYtipSs353cDcna2jXr0KkGOK3g2_34ikTg)](https://hubertgrzesiak.com)
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+# Hi, I'm Hubert Grzesiak! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <p align="left">✨ Creating bugs (and then fixing them!) since 2023.<br>
-📚 I'm currently diving deeper into advanced Next.js patterns and exploring backend development, mainly with Node.js.<br>
+  
+📚 I'm currently diving deeper into advanced **Next.js** patterns and exploring backend development, mainly with Node.js.<br>
+
 🎯 Goals: To contribute to innovative IT projects by building high-quality, user-friendly web applications, and continuously grow my skills as a developer.<br>
-🎲 Fun fact: I successfully developed "Restly," a comprehensive stay booking app, as my engineering thesis project!</p>
-🧑🏻‍💻 Now: Focusing on side project - WebToast (Automatic AI Blog)
 
-###
+🎲 Fun fact: I successfully developed **"Restly"**, a comprehensive stay booking app, as my engineering thesis project!</p>
 
-<div align="center">
+🧑🏻‍💻 Now: Focusing on side project - **WebToast (Automatic AI Blog)**
 
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <h2 align="center">I code with</h2>
-      <p align="center">
-        <em>Frontend & Core:</em><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-      </p>
-      <p align="center">
-        <em>Backend & Databases:</em><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-      </p>
-      <p align="center">
-        <em>Testing & Others:</em><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-      </p>
-    </td>
-    <td valign="top" align="center">
-      <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hubertgrzesiak&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+💬 Ask me about **Web Development**
 
-</div>
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hubertgrzesiakjs/)**
 
-###
+## My Skills - Technologies I use
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,materialui,nodejs,jest,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,supabase,firebase,mongodb,vscode,bash,figma,vercel,netlify)
+
+## 🌟 Most Used Weapons
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+## Connect with me:
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hubertgrzesiakjs/)
